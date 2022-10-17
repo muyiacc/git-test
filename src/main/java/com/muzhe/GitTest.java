@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello,git~2");
         System.out.println("hello,git~3 by develop");
         System.out.println("hello,git~ by master");
+        System.out.println("hello,git~ by develop");
     }
 }
