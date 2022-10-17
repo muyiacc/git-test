@@ -1,3 +1,5 @@
+package com.muzhe;
+
 /**
  * @author muyiacc
  * @version v1.0
@@ -8,6 +10,6 @@ public class GitTest {
     public static void main(String[] args) {
 
         System.out.println("hello,git~");
-        System.out.println("hello,git2");
+        System.out.println("hello,git~2");
     }
 }
